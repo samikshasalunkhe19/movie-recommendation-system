@@ -146,9 +146,6 @@ Movie-Recommendation-System/
 │
 ├── README.md
 ├── movie_recommendation.ipynb
-├── dataset/
-│   └── movies.csv
-│
 └── requirements.txt
 ```
 
